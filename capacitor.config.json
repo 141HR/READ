@@ -1,0 +1,8 @@
+{
+  "appId": "app.read.reader",
+  "appName": "READ",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

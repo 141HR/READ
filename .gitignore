@@ -1,0 +1,21 @@
+node_modules
+dist
+dist-ssr
+shots
+*.local
+.DS_Store
+.vite
+.workbuddy
+
+# 桌面 / Android 构建产物
+src-tauri/target
+src-tauri/gen
+android/.gradle
+android/.idea
+android/build
+android/app/build
+android/local.properties
+*.apk
+*.aab
+*.jks
+*.keystore

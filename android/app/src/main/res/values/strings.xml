@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">READ</string>
+    <string name="title_activity_main">READ</string>
+    <string name="package_name">app.read.reader</string>
+    <string name="custom_url_scheme">app.read.reader</string>
+</resources>
